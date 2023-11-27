@@ -15,3 +15,7 @@ José Roberto de Oliveira - 11201920397<br>
 ### `ATIVIDADE 03 [Tutorial sobre uma API]`
 
 ##### &nbsp;&nbsp;&nbsp; [ATIVIDADE_PRATICA_03.ipynb](https://github.com/guilhermedesousa/processamento-de-linguagem-natural-ufabc/blob/main/atividade_pratica_03/2023_Q3_PLN_ATIVIDADE_PR%C3%81TICA_03.ipynb)
+
+### `ATIVIDADE 04 [Uso da API da OpenAI com técnicas de PLN]`
+
+##### &nbsp;&nbsp;&nbsp; [ATIVIDADE_PRATICA_04.ipynb](https://github.com/guilhermedesousa/processamento-de-linguagem-natural-ufabc/blob/main/atividade_pratica_04/2023_Q3_PLN_ATIVIDADE_PR%C3%81TICA_04.ipynb)
